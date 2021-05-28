@@ -1,1 +1,11 @@
 /* Styles go here */
+.token{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: inline-flex;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
