@@ -1,4 +1,4 @@
 Getting started
-'npm install'
-'truffle compile'
-'truffle migrate'
+`npm install`
+`truffle compile`
+`truffle migrate`
